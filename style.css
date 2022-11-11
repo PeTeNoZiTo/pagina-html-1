@@ -13,3 +13,8 @@ h1 {
     color: rgb(144, 26, 26);
 }
 
+.conteudo {
+    display: flex;
+
+    height: 200px;
+}
